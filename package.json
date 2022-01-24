@@ -1,0 +1,12 @@
+{
+  "name": "@keicreations/app-store-publisher",
+  "version": "0.0.2",
+  "type": "module",
+  "dependencies": {
+    "googleapis": "^92.0.0",
+    "minimist": "^1.2.5"
+  },
+  "bin": {
+    "release-android": "release-android.js"
+  }
+}
